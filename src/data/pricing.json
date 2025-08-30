@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Basic",
+    "price": "$49/mo",
+    "features": [
+      "1 Website",
+      "Basic Support",
+      "Standard Hosting",
+      "SSL Certificate"
+    ],
+    "cta": "Choose Plan"
+  },
+  {
+    "name": "Pro",
+    "price": "$99/mo",
+    "features": [
+      "Up to 5 Websites",
+      "Priority Support",
+      "Premium Hosting",
+      "Advanced SEO Tools"
+    ],
+    "cta": "Get Pro",
+    "highlighted": true
+  },
+  {
+    "name": "Enterprise",
+    "price": "Custom",
+    "features": [
+      "Unlimited Websites",
+      "Dedicated Account Manager",
+      "Custom Integrations",
+      "Enterprise Security"
+    ],
+    "cta": "Contact Us"
+  }
+]

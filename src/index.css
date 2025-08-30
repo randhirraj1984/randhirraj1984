@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Global styles */
+:root {
+  --brand: #4f46e5;
+}
+html, body, #root { height: 100%; }
+a { @apply text-indigo-600 hover:text-indigo-700; }
+.container-default { @apply container max-w-7xl; }

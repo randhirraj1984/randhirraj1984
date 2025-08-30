@@ -1,0 +1,16 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Inter', 'Segoe UI', Arial, sans-serif;
+  background: #f8fafc;
+  color: #22223b;
+}
+
+:root {
+  --color-primary: #4f46e5;
+  --color-secondary: #6366f1;
+  --color-bg: #f8fafc;
+  --color-text: #22223b;
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Brand Identity for Acme Corp",
+    "image": "acme-brand.jpg",
+    "description": "Complete branding and custom website for Acme Corp."
+  },
+  {
+    "title": "E-commerce for StartupX",
+    "image": "startupx-shop.jpg",
+    "description": "Shopify store setup and growth for StartupX."
+  },
+  {
+    "title": "App for BigBrand",
+    "image": "bigbrand-app.jpg",
+    "description": "Cross-platform mobile app for BigBrand."
+  }
+]

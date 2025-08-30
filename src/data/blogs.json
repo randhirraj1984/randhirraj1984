@@ -1,0 +1,20 @@
+[
+  {
+    "title": "How to Build a Modern React App",
+    "date": "2025-08-01",
+    "author": "Sonu Kumar",
+    "summary": "Learn the essentials of building a fast, scalable React app with Vite and Tailwind CSS."
+  },
+  {
+    "title": "SEO Best Practices for 2025",
+    "date": "2025-07-15",
+    "author": "Priya Singh",
+    "summary": "Stay ahead with the latest SEO strategies and tools for your business website."
+  },
+  {
+    "title": "Design Trends in Web Development",
+    "date": "2025-06-30",
+    "author": "Amit Patel",
+    "summary": "Explore the newest design patterns and UI/UX techniques for engaging user experiences."
+  }
+]

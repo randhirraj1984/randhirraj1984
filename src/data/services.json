@@ -1,0 +1,200 @@
+[
+  {
+    "category": "Design Studio",
+    "services": [
+      "Brand Identity Design",
+      "Custom Website Design",
+      "Responsive & Adaptive Layouts",
+      "Landing Page Design",
+      "Graphic Design & Visual Assets",
+      "Logo & Icon Design"
+    ]
+  },
+  {
+    "category": "Online Stores",
+    "services": [
+      "Shopify Store Development",
+      "WooCommerce Integration",
+      "Magento Solutions",
+      "Payment Gateway Setup",
+      "Inventory & Order Management",
+      "Subscription & Membership Sites"
+    ]
+  },
+  {
+    "category": "App Development",
+    "services": [
+      "Single Page Applications (SPA)",
+      "Progressive Web Apps (PWA)",
+      "Native Mobile App Development",
+      "Cross-Platform App Development",
+      "API Development for Apps",
+      "App Maintenance & Updates"
+    ]
+  },
+  {
+    "category": "Rank & Speed",
+    "services": [
+      "On-Page SEO Optimization",
+      "Technical SEO Audits",
+      "Website Speed Optimization",
+      "Google Analytics Setup & Reporting",
+      "Keyword Research & Content Strategy",
+      "SEO Performance Monitoring"
+    ]
+  },
+  {
+    "category": "Site Care",
+    "services": [
+      "Regular Software & Plugin Updates",
+      "Security Monitoring & Malware Removal",
+      "Backup & Disaster Recovery",
+      "Uptime Monitoring",
+      "Performance Audits & Fixes",
+      "Content Updates & Minor Edits"
+    ]
+  },
+  {
+    "category": "User Experience",
+    "services": [
+      "User Research & Personas",
+      "Wireframing & Prototyping",
+      "Usability Testing",
+      "Interaction Design",
+      "Accessibility Compliance",
+      "Conversion Rate Optimization (CRO)"
+    ]
+  },
+  {
+    "category": "Custom Solutions",
+    "services": [
+      "Custom CRM Development",
+      "ERP Integration",
+      "Workflow Automation",
+      "Database Design & Management",
+      "API Development & Integration",
+      "SaaS Application Development"
+    ]
+  },
+  {
+    "category": "Digital Strategy",
+    "services": [
+      "Market & Competitor Analysis",
+      "Digital Transformation Planning",
+      "Content Strategy Development",
+      "Technology Stack Recommendations",
+      "Growth Hacking Strategies",
+      "Campaign & Budget Planning"
+    ]
+  },
+  {
+    "category": "Hosting & Security",
+    "services": [
+      "Managed WordPress Hosting",
+      "Cloud Server Setup & Management",
+      "SSL Certificates & HTTPS Setup",
+      "Firewall & DDoS Protection",
+      "Regular Security Audits",
+      "CDN Setup & Optimization"
+    ]
+  },
+  {
+    "category": "Content Management",
+    "services": [
+      "WordPress Development & Customization",
+      "Joomla & Drupal Development",
+      "Headless CMS Solutions",
+      "Content Migration",
+      "CMS Training & Documentation",
+      "Multilingual Site Setup"
+    ]
+  },
+  {
+    "category": "Marketing Automation",
+    "services": [
+      "Email Marketing Platform Integration",
+      "CRM Setup & Customization",
+      "Lead Nurturing Workflows",
+      "Campaign Automation",
+      "Analytics & Reporting Setup",
+      "Customer Segmentation Strategies"
+    ]
+  },
+  {
+    "category": "AI & Chatbots",
+    "services": [
+      "AI Chatbot Design & Development",
+      "Natural Language Processing (NLP) Integration",
+      "Automated Customer Support Bots",
+      "AI-Driven Personalization",
+      "Voice Assistant Skills Development",
+      "Chatbot Analytics"
+    ]
+  },
+  {
+    "category": "Data Analytics & Reporting",
+    "services": [
+      "Custom Dashboard Development",
+      "Google Analytics & Tag Manager Setup",
+      "Heatmaps & Session Recording",
+      "Data Visualization Solutions",
+      "Business Intelligence Tools Integration",
+      "KPI Tracking and Reporting"
+    ]
+  },
+  {
+    "category": "API Development & Integration",
+    "services": [
+      "REST & GraphQL APIs",
+      "Third-Party API Integration",
+      "Payment Gateway APIs",
+      "Social Media APIs",
+      "Internal System Integrations",
+      "API Security & Rate Limiting"
+    ]
+  },
+  {
+    "category": "Progressive Web Apps",
+    "services": [
+      "PWA Development & Deployment",
+      "Offline Caching Strategies",
+      "Push Notifications Setup",
+      "App Shell Architecture",
+      "Cross-Browser Compatibility",
+      "PWA Performance Auditing"
+    ]
+  },
+  {
+    "category": "Mobile Optimization",
+    "services": [
+      "Mobile-First Design Principles",
+      "Responsive CSS Frameworks",
+      "Accelerated Mobile Pages (AMP)",
+      "Device Testing & Optimization",
+      "Touch & Gesture Enhancements",
+      "Mobile SEO Best Practices"
+    ]
+  },
+  {
+    "category": "Accessibility Services",
+    "services": [
+      "Accessibility Audits & Reports",
+      "ARIA Implementation",
+      "Keyboard Navigation",
+      "Color Contrast & Font Size Adjustments",
+      "Screen Reader Compatibility",
+      "Accessibility Training & Support"
+    ]
+  },
+  {
+    "category": "Conversion Rate Optimization)",
+    "services": [
+      "Hypothesis Development",
+      "A/B & Multivariate Testing",
+      "Heatmaps & User Behavior Analysis",
+      "Funnel Analysis",
+      "Landing Page Optimization",
+      "CRO Reporting & Recommendations"
+    ]
+  }
+]
